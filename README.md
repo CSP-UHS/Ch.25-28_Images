@@ -5,8 +5,8 @@ In chapters 25-28 you will be learning about how to manipulate images in python.
 
 <h3>Jedi Tasks</h3>
 <ol>
-  <li>J-Hawk Scholar</li>
-  <li>Pixel Dust</li>
+  <li>Star Wars Bunch</li>
+  <li>Bobafett</li>
   <li>Eyes of the Sith</li>
   <li>Star Wars Frame</li>
   </ol>
