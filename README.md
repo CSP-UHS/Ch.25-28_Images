@@ -1,4 +1,4 @@
-<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2>Chapters 25-28 Images</H2>
+<H2>Chapters 25-28 Images</H2>
 
 In chapters 25-28 you will be learning about how to manipulate images in python. The files in this repository will be used through chapter 28.
 
